@@ -151,7 +151,7 @@ HAVING COUNT(b.booking_id) > 2;
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/vehicle-rental-sql.git
+   git clone https://github.com/mahbub-alam-dave/next-level-a-3
    cd vehicle-rental-sql
    ```
 
@@ -212,16 +212,11 @@ This project is licensed under the MIT License.
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/mahbub-alam-dave)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/md-mahabub-alam-web-dave/)
+- Email: mahbubalamdave2.00@gmail.com
 
 ## 🔗 GitHub Repository
 
-📎 **Repository Link:** 👉 [https://github.com/yourusername/vehicle-rental-sql](https://github.com/yourusername/vehicle-rental-sql)
+📎 **Repository Link:** 👉 [https://github.com/mahbub-alam-dave/next-level-a-3](https://github.com/mahbub-alam-dave/next-level-a-3)
 
----
-
-⭐ If you find this project helpful, please give it a star on GitHub!
-
-Made with ❤️ and SQL
