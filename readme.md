@@ -152,7 +152,7 @@ HAVING COUNT(b.booking_id) > 2;
 1. **Clone the repository**
    ```bash
    git clone https://github.com/mahbub-alam-dave/next-level-a-3
-   cd vehicle-rental-sql
+
    ```
 
 2. **Create the database**
@@ -212,8 +212,8 @@ This project is licensed under the MIT License.
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/mahbub-alam-dave)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/md-mahabub-alam-web-dave/)
+- GitHub: [@mahbub-alam-dave](https://github.com/mahbub-alam-dave)
+- LinkedIn: [Md Mahbub Alam](https://www.linkedin.com/in/md-mahabub-alam-web-dave/)
 - Email: mahbubalamdave2.00@gmail.com
 
 ## 🔗 GitHub Repository
