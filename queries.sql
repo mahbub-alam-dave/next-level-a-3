@@ -142,8 +142,8 @@ from
   bookings
   inner join vehicles on bookings.vehicle_id = vehicles.vehicle_id
 select
-  name,
-  count(b.booking_id)
+  name as vehicle_name,
+  count(b.booking_id) as total_bookings
 from
   vehicles v
   inner join bookings b on v.vehicle_id = b.vehicle_id
