@@ -137,11 +137,6 @@ create type
 
 -- query four
 select
-  vehicles.name
-from
-  bookings
-  inner join vehicles on bookings.vehicle_id = vehicles.vehicle_id
-select
   name as vehicle_name,
   count(b.booking_id) as total_bookings
 from
